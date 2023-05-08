@@ -1,0 +1,260 @@
+@media (min-width: 1200px) and (max-width: 1500px){ 
+    .footer-link li {
+        width: 45%;
+    }
+    button {
+        font-size: 14px;
+    }
+}
+ @media (min-width: 992px) and (max-width: 1200px){ 
+    .main-menu ul li {
+        padding-left: 12px;
+    }
+    .header-button a {
+        padding: 10px 20px;
+    }
+    .header-button {
+        margin-top: 36px;
+    }
+    .slider-content h1 {
+        font-size: 40px;
+    }
+    .slider-content {
+        padding-left: 30px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    .f-left i {
+        margin-left: 99px;
+    }
+    a {
+        font-size: 11px;
+    }
+    .footer-title p {
+        font-size: 13px;
+    }
+    button {
+        margin-top: 10px;
+    }
+    .iicon-area i {
+        margin-right: 12px;
+    }
+    form input {
+        padding: 5px 0;
+    }
+    .testimonial-title.text-center p {
+        width: 37%;
+        font-size: 14px;
+        margin: auto;
+    }
+    .stay-items h2 {
+        font-size: 28px;
+    }
+    .icon-area h2 {
+        font-size: 20px;
+    }
+    .icon-area p {
+        font-size: 15px;
+    }
+    .content-items h2 {
+        font-size: 20px;
+    }
+    .content-items h5 {
+        font-size: 14px;
+    }
+    .content-items p {
+        font-size: 14px;
+    }
+    .pl-55 {
+        padding-left: 55px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+ @media (min-width: 768px) and (max-width: 992px) {
+    .social-icon a i {
+        padding-left: 9px;
+    }
+    .slider-content h1 {
+        font-size: 28px;
+    }
+    span {
+        letter-spacing: 3.6px;
+    }
+    .slider-content p {
+        font-size: 15px;
+        padding-bottom: 0;
+    }
+    .slider-content {
+        padding-left: 30px;
+    }
+    .stay-items h1 {
+        font-size: 40px;
+    }
+    .stay-items h2 {
+        font-size: 20px;
+    }
+    .icon-area h2 {
+        font-size: 20px;
+    }
+    .icon-area p {
+        font-size: 12px;
+    }
+    .content-items h2 {
+        font-size: 24px;
+    }
+    .pl-55 {
+        padding-left: 40px;
+    }
+    .content-items.pl-55 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .portfolio-menu li {
+        padding: 10px 12px;
+    }
+    .counter-items h3 {
+        font-size: 14px;
+    }
+    .blog-inner h4 a {
+        font-size: 11px;
+        line-height: 1;
+    }
+    .blog-inner p {
+        font-size: 12px;
+    }
+    .f-left i {
+        margin-left: 63px;
+    }
+    h6 {
+        font-size: 11px;
+    }
+    button {
+        padding: 2px 11px;
+    }
+}
+@media (min-width: 768px) {
+
+}
+@media (min-width: 360px) and (max-width: 768px) {
+    .pr-75 {
+        padding-right: 23px;
+    }
+    .pl-75 {
+        padding-left: 23px;
+    }
+    .language ul li {
+        float: left;
+    }
+    .text-center {
+        text-align: center!important;
+    }
+    .social-icon {
+        float: left;
+    }
+    .social-icon a i {
+        padding-left: 7px;
+    }
+    .mean-container .mean-bar {
+        float: right;
+        margin-top: -50px;
+    }
+    .mean-container .mean-nav {
+        width: 46%;
+    }
+    .mean-container .mean-bar, .mean-container .mean-bar * {
+        font-size: 10px;
+        padding-left: 10px;
+    }
+    .slider-content h1 {
+        font-size: 22px;
+    }
+    span {
+        font-size: 10px;
+        letter-spacing: 2.6px;
+    }
+    .slider-content p {
+        font-size: 14px;
+    }
+    .slider-content {
+        padding-left: 10px;
+    }
+    .btn {
+        padding: 11px 20px;
+    }
+    .stay-items h1 {
+        font-size: 34px;
+        text-align: center;
+    }
+    .stay-items h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .icon-area {
+        text-align: center;
+    }
+    .pl-55 {
+        padding-left: 22px;
+    }
+    .content-items h2 {
+        font-size: 18px;
+    }
+    .content-items h5 {
+        font-size: 14px;
+    }
+    .content-items p {
+        font-size: 13px;
+    }
+    a.btn {
+        font-size: 13px;
+    }
+    .content-items.pl-55 {
+        padding: 31px 12px;
+    }
+    .h2, h2 {
+        text-align: center;
+    }
+    .portfolio-menu li {
+        padding: 6px 0px;
+        font-size: 12px;
+        text-transform: capitalize;
+    }
+    .h4, h4 {
+        padding-top: 31px;
+    }
+    button {
+        margin-right: -20px;
+        border-radius: 0px;
+    }
+    .latest-blog-area {
+        margin-left: 23px;
+        margin-right: 23px;
+    }
+    .f-left i {
+        margin-left: 148px;
+        padding-top: 6px;
+    }
+    .footer-area {
+        margin-left: 23px;
+        margin-right: 23px;
+    }
+    .footer-logo {
+        text-align: center;
+    }
+    .footer-title h2 {
+        font-size: 24px;
+        text-align: left;
+    }
+    .footer-link li {
+        width: 49%;
+    }
+    .row {
+        background-size: cover;
+    }
+    .row {
+        display: block;
+    }
+}
+
+
